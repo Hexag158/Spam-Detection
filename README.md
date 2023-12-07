@@ -5,13 +5,13 @@ A collection of Jupyter Notebooks that:
     1) naive_bayes_classifier.ipynb - The spam detect engine
     2) install.ipynb - Install all the necessary libraries
 ```
-# ✨ Background
+# Background
 
 I was looking for an application of machine learning in cyber security.  I felt the best field to start was "Spam detection", so this is my start at this project.
 
-# 🏁 Overview
+# Overview
 
-##  🤖 naive_bayes_classfier.ipynb - The spam detect engine
+##  naive_bayes_classfier.ipynb - The spam detect engine
 Overview: This script will detect spam emails.  Using Naive Bayes algorithms to classify which emails are spam and non-spam.
 
 ### To begin
